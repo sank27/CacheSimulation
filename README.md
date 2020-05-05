@@ -1,1 +1,2 @@
 # CacheSimulation
+This program simulates the process of a cache in a computer system. The two types of cache implementations are direct mapping and 2 way set associative mapping. An array (main memory) is first initialized by storing the values of the indices plus 5 for each element (Index 0, content = 0 + 5). Another array (sequence) is then intialized and is used to simulate the process of a CPU searching for data in the cache. 
